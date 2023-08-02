@@ -20,13 +20,16 @@
  * d. XLNet
  * e. T5 (Text-to-Text Transfer Transformer)
  * f. DistilBERT
+   
 **3. Audio Processing:**
  * a. VGGish (for audio classification)
  * b. OpenL3 (for audio feature extraction)
  * c. YAMNet (for audio event detection)
+   
 **4. Speech Recognition:**
  * a. DeepSpeech
  * b. QuartzNet
+   
 **5. Transfer Learning Frameworks:**
  * a. TensorFlow Hub (hosts various pretrained models)
  * b. Hugging Face Transformers (hosts pretrained NLP models)
