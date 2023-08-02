@@ -6,13 +6,13 @@
 
 ## Here are a few well-known pretrained models in various domains:
 1. Computer Vision:
-  *a. VGG16, VGG19
-  *b. ResNet (e.g., ResNet-50, ResNet-101)
-  *c. Inception (e.g., InceptionV3, InceptionResNetV2)
-  *d. MobileNet
-  *e. EfficientNet
-  *f. AlexNet
-2. Natural Language Processing:
+  * a. VGG16, VGG19
+  * b. ResNet (e.g., ResNet-50, ResNet-101)
+  * c. Inception (e.g., InceptionV3, InceptionResNetV2)
+  * d. MobileNet
+  * e. EfficientNet
+  * f. AlexNet
+2.  Natural Language Processing:
   a. BERT (Bidirectional Encoder Representations from Transformers)
   b. GPT (Generative Pre-trained Transformer)
   c. RoBERTa
