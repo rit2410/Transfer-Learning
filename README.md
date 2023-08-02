@@ -12,6 +12,7 @@
  * d. MobileNet
  * e. EfficientNet
  * f. AlexNet
+   
 **2.  Natural Language Processing:**
  * a. BERT (Bidirectional Encoder Representations from Transformers)
  * b. GPT (Generative Pre-trained Transformer)
